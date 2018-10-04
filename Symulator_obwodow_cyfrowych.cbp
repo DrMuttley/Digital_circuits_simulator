@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Symulator_obwodow_cyfrowych" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Symulator_obwodow_cyfrowych" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Symulator_obwodow_cyfrowych" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AND.cpp" />
+		<Unit filename="AND.hpp" />
+		<Unit filename="Bramka.cpp" />
+		<Unit filename="Bramka.hpp" />
+		<Unit filename="NAND.cpp" />
+		<Unit filename="NAND.hpp" />
+		<Unit filename="NOR.cpp" />
+		<Unit filename="NOR.hpp" />
+		<Unit filename="NOT.cpp" />
+		<Unit filename="NOT.hpp" />
+		<Unit filename="OR.cpp" />
+		<Unit filename="OR.hpp" />
+		<Unit filename="XOR.cpp" />
+		<Unit filename="XOR.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

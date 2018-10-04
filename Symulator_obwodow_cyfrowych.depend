@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1483035250 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\and.cpp
+	<iostream>
+	"AND.hpp"
+
+1483035268 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\bramka.cpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035260 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\bramka.hpp
+	<iostream>
+
+1483454855 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<vector>
+	"AND.hpp"
+	"OR.hpp"
+	"NAND.hpp"
+	"NOR.hpp"
+	"XOR.hpp"
+	"NOT.hpp"
+
+1483034715 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\and.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483049250 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\or.cpp
+	<iostream>
+	"OR.hpp"
+
+1483035501 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\or.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035346 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\nand.cpp
+	<iostream>
+	"NAND.hpp"
+
+1483035352 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\nand.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035441 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\nor.cpp
+	<iostream>
+	"NOR.hpp"
+
+1483035441 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\nor.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035553 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\xor.cpp
+	<iostream>
+	"XOR.hpp"
+
+1483035566 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\xor.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483102461 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\not.cpp
+	<iostream>
+	"NOT.hpp"
+
+1483102461 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych\not.hpp
+	<iostream>
+
+1481143979 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\and.cpp
+	<iostream>
+	"AND.hpp"
+
+1481143869 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\and.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1481143860 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\bramka.hpp
+	<iostream>
+
+1480953436 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\bramka.cpp
+	<iostream>
+	"Bramka.hpp"
+
+1481144048 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<vector>
+	"AND.hpp"
+	"OR.hpp"
+	"NAND.hpp"
+	"NOR.hpp"
+	"XOR.hpp"
+	"NOT.hpp"
+
+1481143921 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\or.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1481143892 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\nand.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1481143898 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\nor.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1481143927 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\xor.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1481143909 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\not.hpp
+	<iostream>
+
+1481143968 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\nand.cpp
+	<iostream>
+	"NAND.hpp"
+
+1481143960 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\nor.cpp
+	<iostream>
+	"NOR.hpp"
+
+1481143950 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\not.cpp
+	<iostream>
+	"NOT.hpp"
+
+1481143943 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\or.cpp
+	<iostream>
+	"OR.hpp"
+
+1481143935 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_07_12_2016\xor.cpp
+	<iostream>
+	"XOR.hpp"
+
+1483035250 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\and.cpp
+	<iostream>
+	"AND.hpp"
+
+1483034715 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\and.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035260 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\bramka.hpp
+	<iostream>
+
+1483035268 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\bramka.cpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035346 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\nand.cpp
+	<iostream>
+	"NAND.hpp"
+
+1483035352 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\nand.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035441 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\nor.cpp
+	<iostream>
+	"NOR.hpp"
+
+1483035441 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\nor.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483102461 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\not.cpp
+	<iostream>
+	"NOT.hpp"
+
+1483102461 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\not.hpp
+	<iostream>
+
+1483049250 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\or.cpp
+	<iostream>
+	"OR.hpp"
+
+1483035501 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\or.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483035553 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\xor.cpp
+	<iostream>
+	"XOR.hpp"
+
+1483035566 c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\xor.hpp
+	<iostream>
+	"Bramka.hpp"
+
+1483351044 source:c:\users\£ukasz\desktop\symulator_obwodow_cyfrowych_kopia_30_12_2016\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<vector>
+	"AND.hpp"
+	"OR.hpp"
+	"NAND.hpp"
+	"NOR.hpp"
+	"XOR.hpp"
+	"NOT.hpp"
+
